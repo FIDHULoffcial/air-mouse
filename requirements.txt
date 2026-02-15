@@ -1,0 +1,17 @@
+# Iron Man Holographic Interface System - Requirements
+
+# Core dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+PyOpenGL>=3.1.6
+PyOpenGL-accelerate>=3.1.6
+pygame>=2.5.0
+
+# Optional but recommended
+scipy>=1.10.0
+Pillow>=10.0.0
+
+# For enhanced features (optional)
+# pyttsx3>=2.90  # Text-to-speech for JARVIS voice
+# sounddevice>=0.4.6  # Audio playback
